@@ -5,3 +5,5 @@
 ### Salvando altrerações no GIT
 
 # Uso do comando Git Restore
+
+## Comando Git Pull
