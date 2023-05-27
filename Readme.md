@@ -7,3 +7,4 @@
 # Uso do comando Git Restore
 
 ## Comando Git Pull
+##Git pull de novo
